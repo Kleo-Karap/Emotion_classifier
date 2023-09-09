@@ -1,0 +1,40 @@
+File: f_angry_high_classification_results.txt
+Percentage of the majority class (Angry): 68.42%
+Percentage of the minority class (Calm): 31.58%
+-------------------------------------------
+File: f_angry_low_classification_results.txt
+Percentage of the majority class (Angry): 52.38%
+Percentage of the minority class (Calm): 47.62%
+-------------------------------------------
+File: f_calm_high_classification_results.txt
+Percentage of the majority class (Calm): 95.00%
+Percentage of the minority class (Angry): 5.00%
+-------------------------------------------
+File: f_calm_low_classification_results.txt
+Percentage of the majority class (Calm): 68.18%
+Percentage of the minority class (Angry): 31.82%
+-------------------------------------------
+File: mic_angry_classification_results.txt
+Percentage of the majority class (Angry): 51.61%
+Percentage of the minority class (Calm): 48.39%
+-------------------------------------------
+File: mic_calm_classification_results.txt
+Percentage of the majority class (Calm): 77.78%
+Percentage of the minority class (Angry): 22.22%
+-------------------------------------------
+File: m_angry_high_classification_results.txt
+Percentage of the majority class (Angry): 66.67%
+Percentage of the minority class (Calm): 33.33%
+-------------------------------------------
+File: m_angry_low_classification_results.txt
+Percentage of the majority class (Calm): 50.00%
+Percentage of the minority class (Angry): 50.00%
+-------------------------------------------
+File: m_calm_high_classification_results.txt
+Percentage of the majority class (Calm): 60.00%
+Percentage of the minority class (Angry): 40.00%
+-------------------------------------------
+File: m_calm_low_classification_results.txt
+Percentage of the majority class (Calm): 78.95%
+Percentage of the minority class (Angry): 21.05%
+-------------------------------------------
