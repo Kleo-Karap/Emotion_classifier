@@ -9,6 +9,8 @@ The purpose of this project is to create and evaluate a system that recognizes r
 5) Evaluate the model you saved above in real-time mode, but with the audio coming from audio file data (for testing in "lab conditions"). It is your choice how many files to evaluate it on and what metric to use. We chose to evaluate on a windows size of 2048
 6) Run the model with your voice and print the results as you wish (e.g. on a graph or even as a printout on the console). Save the result in whatever format you consider sufficiently descriptive (e.g. screenshot or copy-paste from the console)
 
+This is a useful repo for someone to experiment on the degree, at which emotions among the two genders are sufficiently distinguishable and to further inspect, which spectral features are most appropriate for the classifier's optimisation of your task and your chosen emotions. E.g. happy-sad classifcation may need more than MFCCs to be successfully performed.
+
 ## User Instructions
 Analytical instructions about the order to run the .py scripts are given in the **Realtime_SER_Report.pdf**
 
